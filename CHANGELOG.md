@@ -1,5 +1,17 @@
 # @primer/components
 
+## 35.7.0
+
+### Minor Changes
+
+- [#2232](https://github.com/primer/react/pull/2232) [`a0fcce61`](https://github.com/primer/react/commit/a0fcce61c04f45ead24fee8f8e25fcf6f3137cd3) Thanks [@broccolinisoup](https://github.com/broccolinisoup)! - Add a `stickyTop` prop, the height of a sticky header, to the `PageLayout.Pane` to push the pane down for the sticky header when necessary.
+
+### Patch Changes
+
+- [#2239](https://github.com/primer/react/pull/2239) [`041d6d0e`](https://github.com/primer/react/commit/041d6d0ee478456fdb6ff691b1704bfc01d891bc) Thanks [@colebemis](https://github.com/colebemis)! - Add draft `SplitPageLayout` component
+
+* [#2205](https://github.com/primer/react/pull/2205) [`4badb579`](https://github.com/primer/react/commit/4badb579d3832d06670ebf200a713d610254825d) Thanks [@okuryu](https://github.com/okuryu)! - Include React 18 in peerDependencies
+
 ## 35.6.0
 
 ### Minor Changes
